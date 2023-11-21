@@ -4,7 +4,7 @@ C++ Moscow №2: «ООП в Clickhouse»‎
 
 Докладчик: Дмитрий Косенко
 
-Видео: [YouTube]()
+Видео: [YouTube](https://youtu.be/fUYAsDI2V2E)
 
 Презентация: [PDF](slides.pdf)
 
